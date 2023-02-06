@@ -12,6 +12,6 @@ This is the mmWave sensing dataset of different tasks, including liquid identifi
     
 2. Dataset of blood pressure
 
-    It's the 15 blood pressure samples dataset of 5 different subjects. Each sample contains 6300*1 length data, which is recorded mmWave sensing data of the wrist artery by 210 Hz. The groundtruth contains (data_path | SBP | DBP | HeatRate | Gender) labels.  Our paper is still under review, thus we only public part of our dataset.
+    It's the dataset of  15 blood pressure samples from 5 different subjects. Each sample contains 6300 length data, which is recorded mmWave sensing data of the wrist artery by 210 Hz. The groundtruth contains (data_path | SBP | DBP | HeatRate | Gender) labels.  Our paper is still under review, thus we only public part of our dataset.
     
     
